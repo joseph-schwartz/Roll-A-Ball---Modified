@@ -1,3 +1,5 @@
+This is a demo of my C# scripting skills that I built over a weekend for a company I was applying for.
+
 Goal: Pickup eight collectibles to win the game
 
 Added Features:
